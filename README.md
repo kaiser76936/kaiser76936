@@ -1,6 +1,6 @@
 ## REPOSITÓRIO HOME
 ## [Sistemas Paralelos](https://github.com/kaiser76936/Sistemas-Paralelos.git) [Sistemas Distribuidos](https://github.com/kaiser76936/SD.git)
-## Doccano [LES](https://github.com/Nickurama/doccano.git) 
+## [LES-Doccano](https://github.com/Nickurama/doccano.git) 
 ## [Desenvolvimento de Aplicações Web](https://github.com/kaiser76936/Desenvolvimento_de_Aplicacoes_Web.git)
 ## [Beach Rush](https://github.com/AfonsoNG03/ProjetoCG.git) 
 ## [PDB](https://github.com/kaiser76936/PDB.git)
